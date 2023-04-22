@@ -7,6 +7,19 @@
   - 图像计算：🌈 [数据库地址](https://hapoviewer-gediaoss.notion.site/0a34fb897b08460c8f1f51150e774afb?v=5b5c45127b6b4e258c2c706ba516bf81)
   - 自然语言处理：🤖 [数据库地址](https://hapoviewer-gediaoss.notion.site/3de09f24bf4045cfa0fe810bc0610286?)
   - 操作系统与硬件：🌻 [数据库地址](https://hapoviewer-gediaoss.notion.site/dad17b8c98f145ad81a9ac2dcd143b5a?v=97587cc0dc514d3cbe0c947c0c1e18ff)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ume-technology&show_icons=true&theme=synthwave)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
+---
 
 - 🔤 C++/Python/曾经深信Java，用它写过分布式，但已多年不用Java开发，现在已和Java渐行渐远
 
@@ -17,3 +30,5 @@
 - ⛄ 有自己想做的事情，那就是珍惜时间。
 
 ![](https://i.328888.xyz/2023/04/22/i52pNZ.jpeg)
+
+
