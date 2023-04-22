@@ -12,6 +12,9 @@ Solarized dark             |  Solarized Ocean
   - 🌻 [树莓派/嵌入式/Iot/Linux](https://hapoviewer-gediaoss.notion.site/dad17b8c98f145ad81a9ac2dcd143b5a?v=97587cc0dc514d3cbe0c947c0c1e18ff)   |  ![](https://...Ocean.png)
   - 🤖 [自然语言处理/知识图谱/Rasa聊天机器人/LLModel/Prompt/Instruc](https://hapoviewer-gediaoss.notion.site/3de09f24bf4045cfa0fe810bc0610286?  |  ![](https://...Ocean.png)
 
+  - 🌈 [图像处理](https://hapoviewer-gediaoss.notion.site/0a34fb897b08460c8f1f51150e774afb?v=5b5c45127b6b4e258c2c706ba516bf81) \ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ume-technology&show_icons=true&theme=gruvbox)
+
+
 - 💻 我的工作和学习
   - 🌈 [图像处理](https://hapoviewer-gediaoss.notion.site/0a34fb897b08460c8f1f51150e774afb?v=5b5c45127b6b4e258c2c706ba516bf81)
   - 🌻 [树莓派/嵌入式/Iot/Linux](https://hapoviewer-gediaoss.notion.site/dad17b8c98f145ad81a9ac2dcd143b5a?v=97587cc0dc514d3cbe0c947c0c1e18ff)
