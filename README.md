@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ume-technology&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ume-technology&show_icons=true&theme=onedark)
 
 
 **UME-AI** 专注（跨境）电商自动化服务
