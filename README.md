@@ -12,3 +12,6 @@
 - ⛄ 有自己想做的事情，那就是珍惜时间。
 - 😎 爱党爱国，人在北大荒，心向党中央，我应该是可以经得住诱惑，所以非必需尽量不要考验我 🥀
 ![](https://i.328888.xyz/2023/04/22/i52pNZ.jpeg)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ume-technology)](https://github.com/anuraghazra/github-readme-stats)
