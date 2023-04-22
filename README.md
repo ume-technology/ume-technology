@@ -14,5 +14,4 @@
 ![](https://i.328888.xyz/2023/04/22/i52pNZ.jpeg)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ume-technology&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ume-technology&show_icons=true&theme=merko)
