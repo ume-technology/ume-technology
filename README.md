@@ -5,6 +5,12 @@
 
 - 我的工作和学习
   
+  - 除了一些Repo，你可以点击这里查看处于开放状态的[Project](https://github.com/ume-technology?tab=projects)：
+    
+    - 关于我的工作记录，当然主要是代码开发记录和我的工作笔记
+
+    - [当然你可以着重关注这里🔥](https://github.com/users/ume-technology/projects/1/views/2?pane=issue&itemId=26490425)
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ume-technology&show_icons=true&theme=synthwave)
 
 
