@@ -4,9 +4,6 @@
 
 
 - 我的工作和学习
-  - 图像计算：🌈 [数据库地址](https://hapoviewer-gediaoss.notion.site/0a34fb897b08460c8f1f51150e774afb?v=5b5c45127b6b4e258c2c706ba516bf81)
-  - 自然语言处理：🤖 [数据库地址](https://hapoviewer-gediaoss.notion.site/3de09f24bf4045cfa0fe810bc0610286?)
-  - 操作系统与硬件：🌻 [数据库地址](https://hapoviewer-gediaoss.notion.site/dad17b8c98f145ad81a9ac2dcd143b5a?v=97587cc0dc514d3cbe0c947c0c1e18ff)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ume-technology&show_icons=true&theme=synthwave)
 
