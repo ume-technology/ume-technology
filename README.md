@@ -11,8 +11,6 @@
 
     - [当然你可以着重关注这里🔥，我想应该会帮助到你](https://github.com/users/ume-technology/projects/1/views/2?pane=issue&itemId=26490425)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ume-technology&show_icons=true&theme=synthwave)
-
 
 ---
 
