@@ -2,14 +2,10 @@
 
 **UME-AI** 专注（跨境）电商自动化服务
 
-
-- 我的工作和学习
   
-  - 除了一些Repo，你可以点击这里查看处于开放状态的[Project](https://github.com/ume-technology?tab=projects)：
+- 除了一些Repo，你可以点击这里查看处于开放状态的[Project](https://github.com/ume-technology?tab=projects)：
     
-    - 关于我的工作记录和学习笔记
-
-    - [当然你可以着重关注这里🔥，我想应该会帮助到你](https://github.com/users/ume-technology/projects/1/views/2?pane=issue&itemId=26490425)
+- [当然你可以着重关注这里🔥，我想应该会帮助到你](https://github.com/users/ume-technology/projects/1/views/2?pane=issue&itemId=26490425)
   
 
 ---
