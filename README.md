@@ -2,6 +2,7 @@
 
 **UME-AI** 专注（跨境）电商自动化服务
 
+- [UmeAI：一个极自由开放的社区论坛](www.beautygirls.top)
   
 - 除了一些Repo，你可以点击这里查看处于开放状态的[Project](https://github.com/ume-technology?tab=projects)：
     
